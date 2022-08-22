@@ -7,7 +7,7 @@ Visit the website - https://fitnessfunda.ga/
 ## Documentation
 
 Get documentation Here -
-(https://drive.google.com/drive/folders/18gRHhVVLuBYRAj0soOUAh1uknQwanzCB?usp=sharing)
+(https://drive.google.com/drive/folders/1wb58lY0xBw-G4RT_Ml-mO1Ke5S0loypT?usp=sharing)
 
 ## Requirements
 HTML
