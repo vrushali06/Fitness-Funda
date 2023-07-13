@@ -1,6 +1,6 @@
 
 # Landing Pages -💪Fitness Funda
-Visit the website - https://fitnessfunda.ga/
+Visit the website - fitnessfunda.netlify.app
 
 
 
@@ -20,8 +20,8 @@ JavaScript
 
 ## Contributors
 Vrushali Datir
-
 Sakshi Dherange
+
 ## Deploy on Netlify
 
 The easiest way to deploy your website is to use the Netlify Platform.
